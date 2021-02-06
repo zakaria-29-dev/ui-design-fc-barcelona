@@ -1,0 +1,16 @@
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\UI_007.exe.config
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\UI_007.exe
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\UI_007.pdb
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\Guna.UI.dll
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\Bunifu.Core.dll
+C:\Users\root17\Source\Repos\UI_007\UI_007\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.csprojAssemblyReference.cache
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.Form1.resources
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.Form2.resources
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.Properties.Resources.resources
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.csproj.GenerateResource.cache
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.csproj.CoreCompileInputs.cache
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.csproj.CopyComplete
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.exe
+C:\Users\root17\Source\Repos\UI_007\UI_007\obj\Debug\UI_007.pdb
